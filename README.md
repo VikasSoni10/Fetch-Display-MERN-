@@ -1,4 +1,4 @@
-# MERN 
+# Fetch & Display
 
 Step 1:    
 1. Make a folder named server and paste all these code into it.
